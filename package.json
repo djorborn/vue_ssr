@@ -1,0 +1,26 @@
+{
+  "name": "vur_ssr",
+  "version": "1.0.0",
+  "description": "I am learing about vue server side rendering",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djorborn/vue_ssr.git"
+  },
+  "keywords": [
+    "vue",
+    "ssr",
+    "expressjs",
+    "vuejs"
+  ],
+  "author": "djorborn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djorborn/vue_ssr/issues"
+  },
+  "homepage": "https://github.com/djorborn/vue_ssr#readme"
+}
